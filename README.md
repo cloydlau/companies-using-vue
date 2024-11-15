@@ -22,6 +22,7 @@ This project aims to provide the most comprehensive list possible of **well-know
 |           Huawei<br>华为           |        Vue3        | https://www.harmonyos.com/                         |
 |           Xiaomi<br>小米           |    Nuxt2(Vue2)     | https://www.mi.com/                                |
 |             JD<br>京东             |        Vue3        | https://nutui.jd.com/                              |
+|           Baidu<br>百度            |        Vue2        | https://pan.baidu.com/                             |
 |        Bilibili<br>哔哩哔哩        |        Vue3        | https://www.bilibili.com/                          |
 |          Kuaishou<br>快手          |        Vue2        | https://www.kuaishou.com/new-reco                  |
 |       Wikimedia<br>维基媒体        |        Vue3        | https://meta.wikimedia.org/wiki/Main_Page          |
