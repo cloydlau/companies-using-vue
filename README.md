@@ -66,7 +66,6 @@ This project aims to provide the most comprehensive list possible of **well-know
 |      Game Science<br>游戏科学      |        Vue2        | https://www.heishenhua.com/                        |
 |          Blizzard<br>暴雪          |        Vue2        | https://hs.blizzard.cn/                            |
 |         Nintendo<br>任天堂         |    Nuxt2(Vue2)     | https://www.nintendoswitch.com.cn/                 |
-|     Honor of Kings<br>王者荣耀     |        Vue2        | https://pvp.qq.com/                                |
 |          miHoYo<br>米哈游          |    Nuxt2(Vue2)     | https://www.mihoyo.com/                            |
 |                AMD                 |        Vue3        | https://www.amd.com/zh-cn.html                     |
 |      China Unicom<br>中国联通      |    Nuxt2(Vue2)     | https://www.chinaunicom.com.cn/                    |
