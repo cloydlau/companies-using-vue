@@ -1,5 +1,7 @@
 # Companies Using Vue
 
+Who is using Vue?
+
 Is it mainly small companies that are using Vue?
 
 Is Vue only suitable for building small applications?
