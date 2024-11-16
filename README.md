@@ -2,7 +2,7 @@
 
 Who is using Vue?
 
-Is it mainly small companies that are using Vue?
+Is it mainly Chinese companies or small companies that are using Vue?
 
 Is Vue only suitable for building small applications?
 
@@ -12,20 +12,35 @@ This project aims to provide the most comprehensive list possible of **well-know
 
 <a href="https://pr.new"><img src="https://developer.stackblitz.com/img/start_pr_dark_small.svg" alt="Start new PR in StackBlitz Codeflow"></a>
 
-|              Company               | Frontend Framework | Link                                               |
+|      Company or Institutions       | Frontend Framework | Link                                               |
 |:----------------------------------:|:------------------:|----------------------------------------------------|
 |     NASA<br>美国国家航空航天局     |        Vue3        | https://github.com/nasa/openmct                    |
+|        MIT<br>麻省理工学院         |        Vue2        | https://www.mit.edu/                               |
+|     ETH<br>苏黎世联邦理工学院      |        Vue3        | https://ethz.ch/en.html                            |
+|       UniMelb<br>墨尔本大学        |        Vue2        | https://www.unimelb.edu.au/                        |
+|       HKUST<br>香港科技大学        |        Vue2        | https://hkust.edu.hk/zh-hant                       |
+|          NJU<br>南京大学           |        Vue2        | https://www.nju.edu.cn/                            |
+|        NWPU<br>西北工业大学        |        Vue2        | https://www.nwpu.edu.cn/                           |
+|          WHU<br>武汉大学           |        Vue2        | https://www.whu.edu.cn/                            |
+|          SYSU<br>中山大学          |        Vue2        | https://www.sysu.edu.cn/                           |
+|        DLUT<br>大连理工大学        |        Vue2        | https://www.dlut.edu.cn/                           |
+|          CQU<br>重庆大学           |        Vue2        | https://www.cqu.edu.cn/                            |
+|          NEU<br>东北大学           |                    | https://www.neu.edu.cn/                            |
+|        MUC<br>中央民族大学         |        Vue2        | https://www.muc.edu.cn/                            |
 |           Apple<br>苹果            |        Vue2        | https://developer.apple.com/documentation/swiftui/ |
 |           Google<br>谷歌           |        Vue3        | https://github.dev/google/litmus                   |
 |         Microsoft<br>微软          |                    | https://www.microsoft.com/zh-cn/edge/              |
 |          Tencent<br>腾讯           |    Nuxt3(Vue3)     | https://weixin.qq.com/                             |
 |           Huawei<br>华为           |        Vue3        | https://www.harmonyos.com/                         |
 |           Xiaomi<br>小米           |    Nuxt2(Vue2)     | https://www.mi.com/                                |
+|                OPPO                |        Vue2        | https://www.oppo.com/cn/                           |
 |             JD<br>京东             |        Vue3        | https://nutui.jd.com/                              |
 |           Baidu<br>百度            |        Vue2        | https://pan.baidu.com/                             |
 |        Bilibili<br>哔哩哔哩        |        Vue3        | https://www.bilibili.com/                          |
-|          Kuaishou<br>快手          |        Vue2        | https://www.kuaishou.com/new-reco                  |
-|       Wikimedia<br>维基媒体        |        Vue3        | https://meta.wikimedia.org/wiki/Main_Page          |
+|          Kuaishou<br>快手          |        Vue2        | https://www.kuaishou.com/                          |
+|         Mango TV<br>芒果TV         |    Nuxt2(Vue2)     | https://www.mgtv.com/                              |
+|       Wikimedia<br>维基媒体        |        Vue3        | https://meta.wikimedia.org/wiki/                   |
+|            CCTV<br>央视            |        Vue3        | https://www.cctv.com/                              |
 |            Sina<br>新浪            |        Vue2        | https://weibo.com/                                 |
 |       Xiaohongshu<br>小红书        |        Vue3        | https://www.xiaohongshu.com/protocols/about        |
 |               Adobe                |        Vue3        | https://www.behance.net/                           |
@@ -38,7 +53,7 @@ This project aims to provide the most comprehensive list possible of **well-know
 |        Lotus<br>路特斯/莲花        |        Vue3        | https://www.lotuscars.com.cn/                      |
 |          Yangwang<br>仰望          |        Vue3        | https://www.yangwangauto.com/                      |
 |       Mercedes-Benz<br>奔驰        |        Vue         | https://www.mercedes-benz.com.cn/                  |
-|            BMW<br>宝马             |        Vue3        | https://www.bmw.com.cn/zh/index_new.html           |
+|            BMW<br>宝马             |        Vue3        | https://www.bmw.com.cn/zh/                         |
 |           BYD<br>比亚迪            |    Nuxt2(Vue2)     | https://www.bydauto.com.cn/pc/                     |
 |           Geely<br>吉利            |    Nuxt2(Vue2)     | https://www.geelytech.com/                         |
 |           Wuling<br>五菱           |    Nuxt3(Vue3)     | https://www.wuling.com/                            |
@@ -51,9 +66,10 @@ This project aims to provide the most comprehensive list possible of **well-know
 |            Ford<br>福特            |        Vue2        | https://www.ford.com.cn/                           |
 |        Cadillac<br>凯迪拉克        |    Nuxt3(Vue3)     | https://www.cadillac.com.cn/                       |
 |           Yadea<br>雅迪            |    Nuxt3(Vue3)     | https://www.yadea.com.cn/                          |
-|     Louis Vuitton<br>路易威登      |    Nuxt2(Vue2)     | https://www.louisvuitton.cn/zhs-cn/homepage        |
+|        Guazi<br>瓜子二手车         |    Nuxt2(Vue2)     | https://www.guazi.com/                             |
+|     Louis Vuitton<br>路易威登      |    Nuxt2(Vue2)     | https://www.louisvuitton.cn/                       |
 |           Gucci<br>古驰            |        Vue2        | https://www.gucci.cn/zh/                           |
-|          Prada<br>普拉达           |        Vue2        | https://www.prada.com/cn/zh.html                   |
+|          Prada<br>普拉达           |        Vue2        | https://www.prada.com/cn/                          |
 |           Fendi<br>芬迪            |        Vue2        | https://www.fendi.cn/                              |
 |           CELINE<br>思琳           |    Nuxt2(Vue2)     | https://www.celine.cn/                             |
 |       Valentino<br>华伦天奴        |        Vue2        | https://www.valentino.cn/                          |
@@ -62,7 +78,7 @@ This project aims to provide the most comprehensive list possible of **well-know
 |         Adidas<br>阿迪达斯         |    Nuxt2(Vue2)     | https://www.adidas.com.cn/                         |
 |            ANTA<br>安踏            |        Vue2        | https://www.anta.cn/                               |
 |    Richard Mille<br>理查德米勒     |    Nuxt2(Vue2)     | https://www.richardmille.cn/cn                     |
-|  Vacheron Constantin<br>江诗丹顿   |        Vue2        | https://www.vacheron-constantin.cn/cn/zh/home.html |
+|  Vacheron Constantin<br>江诗丹顿   |        Vue2        | https://www.vacheron-constantin.cn/cn/zh/          |
 |    L'Oréal Paris<br>巴黎欧莱雅     |        Vue3        | https://www.lorealparis.com.cn/                    |
 |      Game Science<br>游戏科学      |        Vue2        | https://www.heishenhua.com/                        |
 |          Blizzard<br>暴雪          |        Vue2        | https://hs.blizzard.cn/                            |
@@ -73,6 +89,8 @@ This project aims to provide the most comprehensive list possible of **well-know
 |           Lenovo<br>联想           |        Vue2        | https://www.lenovo.com.cn/                         |
 |                Zoom                |    Nuxt3(Vue3)     | https://www.zoom.com/zh-cn                         |
 |                TCL                 |        Vue2        | https://www.tcl.com/cn/zh                          |
+|            ASUS<br>华硕            |    Nuxt2(Vue2)     | https://w3.asus.com.cn/                            |
+|        Fujifilm<br>富士胶片        |        Vue3        | https://www.fujifilm.com.cn/                       |
 |            Yum!<br>百胜            |        Vue2        | https://www.yumchina.com/                          |
 |        McDonald's<br>麦当劳        |        Vue3        | https://www.mcdonalds.com.cn/                      |
 |         Haidilao<br>海底捞         |        Vue2        | https://www.haidilao.com/                          |
@@ -84,6 +102,8 @@ This project aims to provide the most comprehensive list possible of **well-know
 |          Mengniu<br>蒙牛           |        Vue2        | https://www.mengniu.com.cn/                        |
 |            S.F.<br>顺丰            |    Nuxt2(Vue2)     | https://www.sf-express.com/chn/sc                  |
 |        YTO Express<br>圆通         |    Nuxt2(Vue2)     | https://www.yto.net.cn/                            |
+|       CHINA POST<br>中国邮政       |        Vue2        | https://www.11183.com.cn/                          |
+|         CPIC<br>太平洋保险         |        Vue2        | https://m.cpic.com.cn/                             |
 |              Pornhub               |        Vue2        | https://www.pornhub.com/                           |
 |    Hithink RoyalFlush<br>同花顺    |        Vue2        | https://www.10jqka.com.cn/                         |
 |      BOSS Zhipin<br>BOSS 直聘      |        Vue2        | https://www.zhipin.com/                            |
@@ -94,6 +114,7 @@ This project aims to provide the most comprehensive list possible of **well-know
 
 - [Wappalyzer](https://www.wappalyzer.com/)
 - [Vue Telescope](https://github.com/nuxtlabs/vue-telescope-extensions)
+- [Vue DevTools](https://devtools.vuejs.org/)
 
 ## Reference
 
