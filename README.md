@@ -12,7 +12,7 @@ This project aims to provide the most comprehensive list possible of **well-know
 
 <a href="https://pr.new"><img src="https://developer.stackblitz.com/img/start_pr_dark_small.svg" alt="Start new PR in StackBlitz Codeflow"></a>
 
-|      Company or Institutions       | Frontend Framework | Link                                               |
+|       Company or Institution       | Frontend Framework | Link                                               |
 |:----------------------------------:|:------------------:|----------------------------------------------------|
 |     NASA<br>美国国家航空航天局     |        Vue3        | https://github.com/nasa/openmct                    |
 |        MIT<br>麻省理工学院         |        Vue2        | https://www.mit.edu/                               |
