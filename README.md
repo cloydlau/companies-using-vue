@@ -8,7 +8,9 @@ Is Vue only suitable for building small applications?
 
 To this day, we still hear people saying that.
 
-This project aims to provide the most comprehensive list possible of **well-known** companies or institutions using Vue. <a href="https://pr.new"><img src="https://developer.stackblitz.com/img/start_pr_dark_small.svg" alt="Start new PR in StackBlitz Codeflow"></a>
+This project aims to provide the most comprehensive list possible of **well-known** companies or institutions using Vue.
+
+<a href="https://pr.new"><img src="https://developer.stackblitz.com/img/start_pr_dark_small.svg" alt="Start new PR in StackBlitz Codeflow"></a>
 
 |      Company or Institutions       | Frontend Framework | Link                                               |
 |:----------------------------------:|:------------------:|----------------------------------------------------|
