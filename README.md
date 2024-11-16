@@ -116,7 +116,7 @@ This project aims to provide the most comprehensive list possible of **well-know
 - [Vue Telescope](https://github.com/nuxtlabs/vue-telescope-extensions)
 - [Vue DevTools](https://devtools.vuejs.org/)
 
-## Reference
+## References
 
 - [made with vue.js](https://madewithvuejs.com/websites)
 - [Is Vue reliable?](https://vuejs.org/about/faq#is-vue-reliable)
